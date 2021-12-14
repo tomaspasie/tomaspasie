@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @tomaspasie
-- 👀 I’m interested in full-stack development and data science!
-- 🌱 I’m currently learning how to work with TensorFlow!
-- 💞️ I’m looking to collaborate on any challenging project!
-- 📫 How to reach me - Email: tomaspasie@gmail.com
+![Banner](/Tomas%20Pasie%20Channel%20Art.png "Banner")
